@@ -1,4 +1,4 @@
-<h1 align="center"> **Chatty** </h1>
+<h1 align="center"> Chatty </h1>
 
 ## About Chatty
 
